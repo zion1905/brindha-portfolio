@@ -12,6 +12,10 @@ header{
     position: fixed;
     transition: 0.3s;
 }
+
+.fa-star{
+  color: #FFD43B;
+}
 .header-div{
     width: 75%;
     height: 100%;
